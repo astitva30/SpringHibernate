@@ -32,7 +32,7 @@ public class MainSpringClass {
                 String id = sc.next();
                 String password = sc.next();
                 //verification from database table 
-                if(id.equals("ish")&& password.equals("abc"))
+                if(id.equals("abc")&& password.equals("abc"))
                 {
                    do
                    {
